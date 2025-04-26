@@ -49,4 +49,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: mjovanovik/kii-demo-01:latest
+          tags: jovana5rova/githubactions:latest
