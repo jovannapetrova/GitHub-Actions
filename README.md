@@ -1,3 +1,3 @@
 # GitHub-Actions
-Homework task
+Homework task for Github Actions
 Adding some text...
